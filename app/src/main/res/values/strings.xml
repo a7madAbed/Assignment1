@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_passwprd">Enter Your Passwprd</string>
+    <string name="remember_me">Remember me</string>
+    <string name="enter_the_type_of_exercise">Enter The Type Of Exercise :</string>
+    <string name="go">Go</string>
+</resources>
